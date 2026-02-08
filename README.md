@@ -51,8 +51,9 @@ Assigns grades automatically.
 
 Finally, certificates for all students are printed in a structured format.
 
-📊 **Grading System
-Marks Range	Grade**
+📊 **Grading System**
+
+**Marks Range	Grade**
 90+	A+
 80–89	A
 70–79	B+
@@ -60,6 +61,8 @@ Marks Range	Grade**
 50–59	C
 40–49	D
 < 40	F
+
+
 **🚀 How to Run**
 g++ student_certificate.cpp -o student_certificate
 ./student_certificate
